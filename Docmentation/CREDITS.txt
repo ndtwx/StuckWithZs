@@ -1,0 +1,69 @@
+CREDITS
+
+TEAM MEMBERS
+Muhamad Khairul Anwar Faiz Bin Roslan
+Lee Yi Cong
+Andy Tang Wei Xian
+Low Eng Hau Ken
+
+INSTRUCTORS
+Cheng Ding Xiang
+Gerald Wong
+
+CREATED IN
+DigiPen
+© 2022 DigiPen, All Rights Reserved.
+
+EXECUTIVES
+
+Claude COMAIR
+President, Founder, and Chief Executive Officer
+
+Jason CHU
+Chief Operating Officer, International
+
+Christopher COMAIR
+Chief Operating Officer, Redmond Campus
+
+Michael GATS
+Chief Financial Officer
+
+Michele COMAIR
+Co-Founder and Senior Executive Vice President
+
+Raymond YAN
+Senior Vice President
+
+Samir ABOU SAMRA
+Chief Technology Officer, International
+
+Prasanna GHALI
+Provost and Acting Department Chair of
+Computer Science, Singapore Campus
+
+John BAUER
+Senior Advisor
+
+Dr. Erik MOHRMANN
+Dean of Faculty, Redmond Campus
+
+Melvin GONSALVEZ
+Senior Vice President of Facilities Management
+
+Angela KUGLER
+EVP Administration and Operations
+
+Dr. Charles DUBA
+Vice President of Institution Advancement and Strategic Initiatives
+
+Ben ELLINGER
+Vice President of Software Production
+
+Johnny DEEK
+Vice President of Information Technology and Computer Systems
+
+
+
+AUDIO ENGINE
+FMOD Core
+© 2022 Firelight Technologies Pty Ltd
